@@ -1,2 +1,2 @@
-# SEPROJ
-Software Engineering Project
+# Ai-Project
+Artifical intelligence project
